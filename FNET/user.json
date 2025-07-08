@@ -7,15 +7,15 @@
     },
     {
   "Name": "Thailand Server VIP2",
-  "Key": "74e989f4a65a8323",
+  "Key": "74e989f4a65a8",
   "Valid": "31",     
   "Expiration": "05/08/2025"
     },
         {
-  "Name": "Thailand Server VIP2",
-  "Key": "0d40a851c0686194",
+  "Name": "Thailand Server VIP",
+  "Key": "4c2ad640e3ad990c",
   "Valid": "31",
-  "Expiration": "05/08/2025"
+  "Expiration": "09/08/2025"
         }
     
 ]
